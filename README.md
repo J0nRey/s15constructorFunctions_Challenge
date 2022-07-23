@@ -1,5 +1,5 @@
 # s15constructorFunctions_Challenge
-Ejercicios de repaso con Funciones Constructoras 1
+Ejercicios de repaso con Funciones Constructoras resuelto por mi
 
 s15constructorFunctions_Challenge
 
